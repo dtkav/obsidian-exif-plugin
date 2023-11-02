@@ -1,0 +1,10 @@
+{
+	"id": "exif-viewer",
+	"name": "EXIF Viewer",
+	"version": "0.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "Shows EXIF data for images",
+	"author": "dtkav",
+	"authorUrl": "https://github.com/dtkav",
+	"isDesktopOnly": true
+}
